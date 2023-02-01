@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pyqt5plus
+Version: 0.1.180513.2115
+Summary: Additional features to PyQt5
+Home-page: https://github.com/moreqt/pyqt5plus
+Author: Govinda Raja D
+Author-email: 
+License: LGPL 3.0
+Keywords: PyQt5 extensions
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.6
+Requires-Dist: PyQt5
+
+UNKNOWN
+
+
